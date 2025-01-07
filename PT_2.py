@@ -1,3 +1,4 @@
+#Q)Write a menu driven program to create a list f size n, check for an element, delete negative values if they exist and display the list
 #creating the list
 n=int(input("Enter the size of the list: "))
 L=[]
